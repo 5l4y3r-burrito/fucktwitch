@@ -16,14 +16,7 @@ To stop using a script remove the filter and make the url `unset`.
 
  (vaftf8) NEW!!! [USE THIS ONE] - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/f8f86706daf90daa534b26bce5b2f01238667d5f/vaft/vaft-ublock-origin.js
 
-## Script history
-
- (vaftf55) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/f5594de4ef5eadd8d3aa156c24cbc53f17ab606c/vaft/vaft-ublock-origin.js
- (vaft0b5) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/0b5ea5ed8959a6b4eb4c1ea406aaa56313c9c907/vaft/vaft-ublock-origin.js
- (vaft914) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/914f4ec6bd56b71e75b5da2d70646c825475c3bb/vaft/vaft-ublock-origin.js
- (vaft223) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/233bedd48bd44a999e9cb7bc15c200115a522747/vaft/vaft-ublock-origin.js
-
-## Scripts [OLD ARCHIVED] (one of these may work for you)
+## Scripts
 
 **Try vaft first and use video-swap-new if you have issues with constant reloads/freezing.**
 
@@ -34,3 +27,10 @@ OR you can try:
 
 - video-swap-new - (this might work for some people if you have bad internet/old computer) [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/f8f86706daf90daa534b26bce5b2f01238667d5f/video-swap-new/video-swap-new-ublock-origin.js)
   - Uses a lower resolution stream during ads.
+
+## Script history [OLD ARCHIVED] (one of these may work for you)
+
+- (vaftf55) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/f5594de4ef5eadd8d3aa156c24cbc53f17ab606c/vaft/vaft-ublock-origin.js
+- (vaft0b5) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/0b5ea5ed8959a6b4eb4c1ea406aaa56313c9c907/vaft/vaft-ublock-origin.js
+- (vaft914) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/914f4ec6bd56b71e75b5da2d70646c825475c3bb/vaft/vaft-ublock-origin.js
+- (vaft223) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/233bedd48bd44a999e9cb7bc15c200115a522747/vaft/vaft-ublock-origin.js
