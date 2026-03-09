@@ -13,8 +13,10 @@ To stop using a script remove the filter and make the url `unset`.
 
 *For the sake of security it's recommended to use a permalink when using uBlock Origin (permalinks do not auto update).*
 
-
-## Scripts
+## Script history (one of these may work for you)
+ worked in march 2026 (vaft223) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/233bedd48bd44a999e9cb7bc15c200115a522747/vaft/vaft-ublock-origin.js
+ working since then (vaftf8) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/f8f86706daf90daa534b26bce5b2f01238667d5f/vaft/vaft-ublock-origin.js
+## Scripts (OLD ARCHIVED)
 
 **Try vaft first and use video-swap-new if you have issues with constant reloads/freezing.**
 
