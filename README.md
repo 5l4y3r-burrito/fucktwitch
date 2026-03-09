@@ -1,7 +1,3 @@
-**Don't combine Twitch specific ad blockers.**
-
-please check [here for updates](https://github.com/pixeltris/TwitchAdSolutions) (if vaft is not working for you)
-
 ## Applying a script (uBlock Origin)
 
 - Navigate to the uBlock Origin Dashboard (the extension options)
@@ -12,9 +8,6 @@ please check [here for updates](https://github.com/pixeltris/TwitchAdSolutions) 
 To stop using a script remove the filter and make the url `unset`.
 
 *For the sake of security it's recommended to use a permalink when using uBlock Origin (permalinks do not auto update).*
-## Last Script (forever release)
-
- (vaftf8) NEW!!! [USE THIS ONE] - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/f8f86706daf90daa534b26bce5b2f01238667d5f/vaft/vaft-ublock-origin.js
 
 ## Scripts
 
@@ -28,9 +21,17 @@ OR you can try:
 - video-swap-new - (this might work for some people if you have bad internet/old computer) [ublock (permalink)](https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/f8f86706daf90daa534b26bce5b2f01238667d5f/video-swap-new/video-swap-new-ublock-origin.js)
   - Uses a lower resolution stream during ads.
 
-## Script history [OLD ARCHIVED] (one of these may work for you)
+## Last Script (forever release)
 
-- (vaftf55) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/f5594de4ef5eadd8d3aa156c24cbc53f17ab606c/vaft/vaft-ublock-origin.js
-- (vaft0b5) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/0b5ea5ed8959a6b4eb4c1ea406aaa56313c9c907/vaft/vaft-ublock-origin.js
-- (vaft914) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/914f4ec6bd56b71e75b5da2d70646c825475c3bb/vaft/vaft-ublock-origin.js
-- (vaft223) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/233bedd48bd44a999e9cb7bc15c200115a522747/vaft/vaft-ublock-origin.js
+ (vaftf8) NEW!!! [USE THIS ONE] - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/f8f86706daf90daa534b26bce5b2f01238667d5f/vaft/vaft-ublock-origin.js
+
+**Don't combine Twitch specific ad blockers.**
+
+please check [here for updates](https://github.com/pixeltris/TwitchAdSolutions) (but there shouldn't be any more releases after F8)
+ 
+## Script history [OLD ARCHIVED] (one of these may still work for you, but the quality will be decrease)
+
+- (vaft f55) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/f5594de4ef5eadd8d3aa156c24cbc53f17ab606c/vaft/vaft-ublock-origin.js
+- (vaft 0b5) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/0b5ea5ed8959a6b4eb4c1ea406aaa56313c9c907/vaft/vaft-ublock-origin.js
+- (vaft 914) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/914f4ec6bd56b71e75b5da2d70646c825475c3bb/vaft/vaft-ublock-origin.js
+- (vaft 223) - https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/233bedd48bd44a999e9cb7bc15c200115a522747/vaft/vaft-ublock-origin.js
